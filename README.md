@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Olá, sou Caio José desenvolvedor Web !!!!👾👾👾
 
 <div align="center">
