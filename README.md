@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/CaiOliveira19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira91&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
