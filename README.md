@@ -1,43 +1,3 @@
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaiOliveira19)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true)
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=CaiOliveiraDev)](https://github.com/CaiOliveira19/CaiOliveiraDev)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=tattoo_page)](https://github.com/CaiOliveira19/tattoo_page)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Olá, sou Caio José desenvolvedor Web !!!!👾👾👾
 
 <p align="center">
@@ -46,9 +6,21 @@
    <img alingn="center" src="https://profile-counter.glitch.me/CaiOliveira19/count.svg"/>
 
 <div align="center">
+  
   <a href="https://github.com/CaiOliveira19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaiOliveira19&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+
+
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=CaiOliveiraDev)](https://github.com/CaiOliveira19/CaiOliveiraDev)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=tattoo_page)](https://github.com/CaiOliveira19/tattoo_page)
+
 </div>
   
   ##
@@ -71,8 +43,11 @@
  
 <div> 
   <a href = "mailto:cj.oliveira1904@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/caio-jose-44a8b9237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   <a href="https://www.facebook.com/caio.jusee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
   <a href="https://wa.me/5521969921216" target="_blank"><img src="https://img.shields.io/badge/ckick-Zap-brightgreen" target="_blank"></a>
   
   ![github-user-contribution](https://user-images.githubusercontent.com/106616005/179656197-16985bef-30f8-4e85-bc4c-2f754cb4ff92.svg)
