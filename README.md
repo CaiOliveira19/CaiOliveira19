@@ -1,3 +1,6 @@
+![git](https://user-images.githubusercontent.com/106616005/179858025-58389699-83cf-47e5-89ab-bc7ad4c4c61e.jpg)
+
+
 ## Olá, sou Caio José desenvolvedor Web !!!!👾👾👾
 
 <p align="center">
@@ -9,17 +12,15 @@
   
   <a href="https://github.com/CaiOliveira19">
     
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaiOliveira19&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaiOliveira19&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7&theme=shades-of-purple"/>
 
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true&theme=shades-of-purple)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=CaiOliveiraDev&theme=shades-of-purple)](https://github.com/CaiOliveira19/CaiOliveiraDev)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=CaiOliveiraDev)](https://github.com/CaiOliveira19/CaiOliveiraDev)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=tattoo_page)](https://github.com/CaiOliveira19/tattoo_page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=tattoo_page&theme=shades-of-purple)](https://github.com/CaiOliveira19/tattoo_page)
 
 </div>
   
