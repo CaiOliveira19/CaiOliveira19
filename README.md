@@ -3,12 +3,12 @@
 
 ## Olá, sou Caio José desenvolvedor Web !!!!👾👾👾
 
-  - Sólido em HTML e CSS
-  - Forte conhecimento de Javascript
-  - Intermediário no React JS
-  - Conhecimento Básico no Node JS
-  - Aprendendo Typescript
-  - Proximo aprendizado da lista ( PHP / Laravel )
+  - Sólido em HTML e CSS :heart:
+  - Forte conhecimento de Javascript :love_you_gesture:
+  - Intermediário no React JS :rocket:
+  - Conhecimento Básico no Node JS :hourglass:
+  - Aprendendo Typescript :hourglass_flowing_sand:
+  - Proximo aprendizado da lista ( PHP / Laravel ) :raised_hands:
    
 
 <p align="center">
@@ -21,8 +21,6 @@
   <a href="https://github.com/CaiOliveira19">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaiOliveira19&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
-
- 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true&theme=shades-of-purple)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiOliveira19&layout=compact&langs_count=7&theme=shades-of-purple"/>
