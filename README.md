@@ -35,6 +35,8 @@
   <a href="https://www.facebook.com/caio.jusee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5521969921216" target="_blank"><img src="https://img.shields.io/badge/ckick-Zap-brightgreen" target="_blank"></a>
   
+  ![github-user-contribution](https://user-images.githubusercontent.com/106616005/179656197-16985bef-30f8-4e85-bc4c-2f754cb4ff92.svg)
+
   ##
  
 </div>
