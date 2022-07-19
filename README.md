@@ -1,3 +1,43 @@
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaiOliveira19)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiOliveira19&show_icons=true)
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=CaiOliveiraDev)](https://github.com/CaiOliveira19/CaiOliveiraDev)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiOliveira19&repo=tattoo_page)](https://github.com/CaiOliveira19/tattoo_page)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Olá, sou Caio José desenvolvedor Web !!!!👾👾👾
 
 <p align="center">
